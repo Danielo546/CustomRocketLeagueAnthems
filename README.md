@@ -3,7 +3,7 @@
 Custom Rocket League Anthems for version V2.28 of the game!
 
 
-![ScreenShot](https://cdn.discordapp.com/attachments/1121949561188003892/1122334762347020388/maxresdefault.jpg) 
+![ScreenShot]([https://cdn.discordapp.com/attachments/1121949561188003892/1122334762347020388/maxresdefault.jpg](https://wallpapercave.com/wp/wp8231578.jpg) 
 
 
 ## TUTORIAL ?
