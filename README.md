@@ -9,7 +9,7 @@ Custom Rocket League Anthems for version V2.28 of the game!
 ## TUTORIAL ?
 - Step 1: [Download the latest Music Pack HERE!](https://github.com/raphaelreal/CustomRocketLeagueAnthems/archive/refs/heads/main.zip)
 - Step 2: Select a Song of your choice and copy `504854167.wem` from one of the folders.
-- Step 3: Replace it in C:\Program Files\Epic Games\rocketleague\TAGame\CookedPCConsole
+- Step 3: Replace it in `C:\Program Files\Epic Games\rocketleague\TAGame\CookedPCConsole`
        - (Note ⚠: If you are on Steam right click Rocket League & Select Properties, then click `Browse local files`
 - Step 4: Select ingame the Eternal Anthem with Bakkesmod or real. (If you can't find it here is a Bakkesmod Code: `xALWBVwABCRWBgA=`)
 
